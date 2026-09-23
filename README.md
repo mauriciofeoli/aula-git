@@ -31,7 +31,3 @@ git status
 git branch
 git checkout -b nova-branch
 ```
-
-## Observação
-
-Este projeto é um exemplo didático, então a ideia é manter tudo simples e fácil de entender para quem está começando com Git.
